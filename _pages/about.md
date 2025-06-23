@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Associate Professor, <a href='https://www.cdut.edu.cn/en/'>Chengdu University of Technology</a>, China
+subtitle: Associate Professor, Chengdu University of Technology, China
 
 profile:
   align: right
