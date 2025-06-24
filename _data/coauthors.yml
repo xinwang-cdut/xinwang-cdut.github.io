@@ -6,8 +6,8 @@
   - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
     url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
-"rosen":
-  - firstname: ["Nathan", "N."]
+"du":
+  - firstname: ["Peijun", "P. J."]
     url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
 "bach":
@@ -17,18 +17,18 @@
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"liu":
+  - firstname: ["Sicong", "S.", "S. C."]
+    url: https://celiang.tongji.edu.cn/info/1301/2409.htm
 
-"Tanyas":
-  - firstname: ["Hakan"]
+"tanyas":
+  - firstname: ["Hakan", "H."]
     url: https://research.utwente.nl/en/persons/hakan-tanya%C8%99
 
-"Jansen":
-  - firstname: ["John D"]
+"jansen":
+  - firstname: ["John D.", "John", "J."]
     url: https://www.ig.cas.cz/en/contact/staff/john-jansen/
 
-"Fan":
-  - firstname: ["Xuanmei"]
+"fan":
+  - firstname: ["Xuanmei", "X.", "X. M."]
     url: https://www.cdut.edu.cn/info/1318/7021.htm
