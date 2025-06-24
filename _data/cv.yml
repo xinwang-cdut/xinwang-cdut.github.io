@@ -30,7 +30,6 @@
       institution: 地质灾害防治与地质环境保护全国重点实验室，成都理工大学
       year: 2021-07 - 2023-12
 
-
 - title: 荣誉奖励
   type: time_table
   contents:
@@ -46,3 +45,16 @@
     - year: 2019
       items:
         - 江苏省测绘地理信息科技进步而等奖（序7）
+
+- title: 学术兼职
+  type: time_table
+  contents:
+    - year: 2024.11 - 至今
+      items:
+        - 国际岩土工程机器学习发展理事会青年理事
+    - year: 2024.06 - Present
+      items:
+        - Geodata and AI -- Editorial Board Member
+    - year: 2023.01 - 至今
+      items:
+        - 中国测绘学会智能化测绘工作委员会委员
