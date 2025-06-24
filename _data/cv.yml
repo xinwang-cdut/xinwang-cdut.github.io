@@ -1,36 +1,36 @@
 - title: 基本信息
   type: map
   contents:
-    - name: 姓 名
-      value: 王 欣
-    - name: 出生日期
-      value: 1993年8月4日
+    - name: Full Name
+      value: Xin Wang
+    - name: Date of Birth
+      value: 4th August 1993
 
-- title: 教育经历
+- title: Education Experience
   type: time_table
   contents:
-    - title: 博士
-      institution: 南京大学, 中国
+    - title: PhD
+      institution: Nanjing University, China
       year: 2016.08 - 2021.06
-    - title: 联合培养博士
-      institution: 女王大学, 加拿大
+    - title: Visiting PhD
+      institution: Queen's University, Canada
       year: 2019.09 - 2020.09
-    - title: 学士
-      institution: 兰州大学，中国
+    - title: BSc
+      institution: Lanzhou University, China
       year: 2012.09 - 2016.06
 
-- title: 工作经历
+- title: Work Experience
   type: time_table
   contents:
-    - title: 副教授
-      institution: 地质灾害防治与地质环境保护全国重点实验室，成都理工大学
-      year: 2024-01 - 至今
+    - title: Associate Professor
+      institution: SKLGP, Chengdu University of Technology
+      year: 2024-01 - Present
 
-    - title: 讲师
-      institution: 地质灾害防治与地质环境保护全国重点实验室，成都理工大学
+    - title: Assistant Professor
+      institution: SKLGP, Chengdu University of Technology
       year: 2021-07 - 2023-12
 
-- title: 荣誉奖励
+- title: Honors and Awards
   type: time_table
   contents:
     - year: 2025
@@ -46,7 +46,7 @@
       items:
         - 江苏省测绘地理信息科技进步而等奖（序7）
 
-- title: 学术兼职
+- title: Committee and Broad Memberships
   type: time_table
   contents:
     - year: 2024.11 - 至今
