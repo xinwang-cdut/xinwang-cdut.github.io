@@ -4,8 +4,8 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: 
+cv_pdf: # you can also use external links here
+description: # you can say something here
 toc:
   sidebar: left
 ---
