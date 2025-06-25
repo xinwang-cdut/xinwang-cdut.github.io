@@ -1,21 +1,12 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+# This file contains a list of co-authors with their first names and URLs to their profiles.
 
 "du":
   - firstname: ["Peijun", "P. J."]
     url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"xu":
+  - firstname: ["Qiang", "Q."]
+    url: https://www.cdut.edu.cn/info/1318/7015.htm
 
 "liu":
   - firstname: ["Sicong", "S.", "S. C."]
