@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>Office: Building SKLGP, Room 210</p>
     <p>Email: wangxin[at]cdut.edu.cn</p>
+    <body><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=ZFB1265UTSD_XjEt_1jhe1gWrYzBQSm1ebOmwX1hCcU&cl=ffffff&w=a"></script></body>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
