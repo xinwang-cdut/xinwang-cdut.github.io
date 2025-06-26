@@ -14,7 +14,7 @@ profiles:
     content: about_zzy.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Zhongyu Zhang</p>
+      <p>Zhongyu Zhang (张中芋)</p>
   - align: left
     image: prof_pic.jpg
     content: about_zzy.md
