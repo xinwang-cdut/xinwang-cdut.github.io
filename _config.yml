@@ -8,6 +8,7 @@ middle_name:
 last_name: Wang
 contact_note: >
   Mapping the invisible. Predicting the inevitable.
+      <body><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=150&t=n&d=ZFB1265UTSD_XjEt_1jhe1gWrYzBQSm1ebOmwX1hCcU&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script></body>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
