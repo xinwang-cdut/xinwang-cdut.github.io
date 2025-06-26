@@ -1,60 +1,9 @@
 - title: Major Projects
-  type: map
-  contents:
-    - name: Full Name
-      value: Xin Wang
-    - name: Date of Birth
-      value: 4th August 1993
-
-- title: Education Experience
   type: time_table
   contents:
-    - title: PhD
-      institution: Nanjing University, China
-      year: 2016.08 - 2021.06
-    - title: Visiting PhD
-      institution: Queen's University, Canada
-      year: 2019.09 - 2020.09
-    - title: BSc
-      institution: Lanzhou University, China
-      year: 2012.09 - 2016.06
-
-- title: Work Experience
-  type: time_table
-  contents:
-    - title: Associate Professor
-      institution: SKLGP, Chengdu University of Technology
-      year: 2024-01 - Present
-
-    - title: Assistant Professor
-      institution: SKLGP, Chengdu University of Technology
-      year: 2021-07 - 2023-12
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2025
+    - title: 国家自然科学基金青年项目
+      year: 2024.01 - 2026.12
       items:
-        - 成都理工大学“优秀共产党员”
-    - year: 2023
-      items:
-        - 地理信息科技进步一等奖（序9）
-    - year: 2022
-      items:
-        - 四川省“天府峨眉计划”青年科技人才
-    - year: 2019
-      items:
-        - 江苏省测绘地理信息科技进步二等奖（序7）
-
-- title: Committee and Broad Memberships
-  type: time_table
-  contents:
-    - year: 2024.11 - Present
-      items:
-        - 国际岩土工程机器学习发展理事会青年理事
-    - year: 2024.06 - Present
-      items:
-        - Geodata and AI -- Editorial Board Member
-    - year: 2023.01 - Present
-      items:
-        - 中国测绘学会智能化测绘工作委员会委员
+        - 西南山区地震诱发滑坡发育分布规律与预测研究
+      description: >
+        我国西南山区地震诱发滑坡具有规模大、分布范围广、长期效应显著等重要特征，严重威胁当地人民生命财产安全和国家重大工程建设。然而，现有研究及工程应用中存在着对震后滑坡灾害空间分布预判不准的突出问题。造成这一问题的核心在于对历史事件的调查分析不够深入，致灾因子与孕灾环境间复杂的作用机制尚不明确。因此，本项目拟充分挖掘遥感影像中滑坡的多层次、多尺度形态信息，建立有效的地震诱发滑坡智能识别方法；通过对重大历史事件的识别，构建西南山区地震诱发滑坡空间数据库；进而探究其发育分布规律，揭示其关键控制因素；在此基础上，设计聚焦滑坡触发感知的深度学习算法，构建考虑多因素耦合作用的地震诱发滑坡预测模型，实现山区震后滑坡空间分布的快速精准判断，为高效有序地开展灾后应急救援和安置转移工作提供科学的指导依据。
