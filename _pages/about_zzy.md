@@ -1,0 +1,2 @@
+She received the B.S. degree in geographic information science from Hebei GEO University, Hebei, China, in 2022. She is currently pursuing the Ph.D. degree with the State Key Laboratory of Geohazard Prevention and Geoenvironment Protection, Chengdu University of Technology, Chengdu, Sichuan, China. She is primarily engaging in theoretical research in machine learning and research on change detection
+in optical remote sensing images.
