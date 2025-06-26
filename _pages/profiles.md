@@ -11,16 +11,14 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: zzy.jpg
-    image_circular: true # crops the image to make it circular
     content: about_zzy.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
       <p>Zhongyu Zhang (张中芋)</p>
   - align: left
     image: prof_pic.jpg
-    image_circular: true # crops the image to make it circular
     content: about_zzy.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
       <p>123 your address street</p>
