@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: Associate Professor, Chengdu University of Technology, China
-    <body><script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=150&t=n&d=ZFB1265UTSD_XjEt_1jhe1gWrYzBQSm1ebOmwX1hCcU&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script></body>
 
 profile:
   align: right
