@@ -10,7 +10,7 @@ Today, Prof. Simon Loew and Dr. Radhika Vidanage De Silva from ETH Zürich joine
 
 ---
 
-#### Meeting Content
+#### Meeting Contents
 
 <ul>
     <li>Associate Prof. Yu Deng introduced our recent geological-hazard surveys and monitoring efforts in southeast Tibet—highlighting key fieldwork at the Sedongpu Valley, Zhibaigou, and Namula Co glacier-lake sites.</li>
