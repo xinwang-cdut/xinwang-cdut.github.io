@@ -1,33 +1,29 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: An in-depth exchanges with Prof. Simon Loew's team from ETH Zurich
+date: 2025-06-27 11:30:00
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Today, Prof. Simon Loew and Dr. Radhika Vidanage De Silva from ETH Zürich joined our team for an in-depth exchange on cold-region hazard chains. The session unfolded as follows:
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
+#### Meeting Content
 
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>Associate Prof. Yu Deng introduced our recent geological-hazard surveys and monitoring efforts in southeast Tibet—highlighting key fieldwork at the Sedongpu Valley, Zhibaigou, and Namula Co glacier-lake sites.</li>
+    <li>Prof. Simon Loew then shared his team's latest glacier and permafrost monitoring, surveying, and mapping results from the European Alps.</li>
+    <li>Dr. Reeul Bhuyan and PhD student Chengbin Zou presented their recent manuscripts and engaged in constructive discussions with Prof. Loew’s group. Their insightful feedback has deeply inspired our future work!</li>
 </ul>
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+
 
 ---
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+> About our visiting guests:
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
+Prof. <a href="https://ethz.ch/staffnet/en/organisation/who-is-who/retired-professors/details.Nzk0MDA=.TGlzdC80MDEsLTc0NzY4NzYw.html">Simon Loew</a> (ETH Zürich) is an expert in glaciology and permafrost, specializing in cold-region hazard chain dynamics. He leads field campaigns and mapping initiatives across the European Alps.
 
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Dr. <a href="https://eaps.ethz.ch/en/people/profile.MzIwMjQw.TGlzdC83NzMsOTI0MjA1OTI2.html">Radhika Vidanage De Silva</a> (ETH Zürich) focuses on cryosphere research, particularly glacier–lake interactions and monitoring technologies in sensitive mountain environments.
