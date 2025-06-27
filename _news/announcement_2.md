@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An in-depth exchanges with Prof. Simon Loew's team from ETH Zurich
-date: 2025-06-27 11:30:00
+date: 2025-06-26 11:11:00-0400
 inline: false
 related_posts: false
 ---
@@ -18,11 +18,11 @@ Today, Prof. Simon Loew and Dr. Radhika Vidanage De Silva from ETH Zürich joine
     <li>Dr. Reeul Bhuyan and PhD student Chengbin Zou presented their recent manuscripts and engaged in constructive discussions with Prof. Loew’s group. Their insightful feedback has deeply inspired our future work!</li>
 </ul>
 
-
+<img src="/assets/img/news-0627-01.jpg" alt="Group Discussion" width="50%">
 
 ---
 
-> About our visiting guests:
+About our visiting guests:
 
 Prof. <a href="https://ethz.ch/staffnet/en/organisation/who-is-who/retired-professors/details.Nzk0MDA=.TGlzdC80MDEsLTc0NzY4NzYw.html">Simon Loew</a> (ETH Zürich) is an expert in glaciology and permafrost, specializing in cold-region hazard chain dynamics. He leads field campaigns and mapping initiatives across the European Alps.
 
