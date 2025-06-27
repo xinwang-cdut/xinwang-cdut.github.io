@@ -18,21 +18,7 @@ Today, Prof. Simon Loew and Dr. Radhika Vidanage De Silva from ETH Zürich joine
     <li>Dr. Reeul Bhuyan and PhD student Chengbin Zou presented their recent manuscripts and engaged in constructive discussions with Prof. Loew’s group. Their insightful feedback has deeply inspired our future work!</li>
 </ul>
 
-<!DOCTYPE html>
-<html>
-<head>
-    <style>
-       .center-img {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-        }
-    </style>
-</head>
-<body>
-    <img src="/assets/img/news-0627-01.jpg" alt="Group Discussion" class="center-img">
-</body>
-</html>
+<img src="/assets/img/news-0627-01.jpg" alt="Group Discussion" width="50%">
 
 ---
 
