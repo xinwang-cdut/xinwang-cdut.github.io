@@ -470,6 +470,13 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0001-6653-2585", "_blank");
         },
       },{
+        id: 'social-researchgate',
+        title: 'ResearchGate',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Xin-Wang-164?ev=hdr_xprf/", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
