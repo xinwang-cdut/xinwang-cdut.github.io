@@ -24,9 +24,11 @@ Today, the laboratory held the <a href="https://www.simr2023.org/">SIMR</a> Conf
 
 About the attending experts:
 
+Prof. <a href="https://www.ig.cas.cz/en/contact/staff/john-jansen/">John Jansen</a>, Institute of Geophysics at Czech Academy of Sciences.
+
 Prof. <a href="https://dr-joshwest.weebly.com/">A. Joshua West</a>, Department of Earth Sciences at the University of Southern California (USC).
 
-Prof. <a href="https://blogs.ed.ac.uk/mattal/">Mikaël Attal</a>, School of GeoSciences at the University of Edinburgh.
+Prof. <a href="https://blogs.ed.ac.uk/mattal/">Mikaël Attal</a>, School of GeoSciences at University of Edinburgh.
 
 Prof. <a href="https://profiles.cardiff.ac.uk/staff/halest">Tristram Hales</a>, School of Earth and Environmental Sciences at Cardiff University.
 
