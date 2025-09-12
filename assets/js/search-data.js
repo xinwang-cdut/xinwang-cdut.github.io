@@ -410,6 +410,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
+            },},{id: "news-a-brainstorm-on-cascading-hazards",
+          title: 'A brainstorm on cascading hazards',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
