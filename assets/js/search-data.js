@@ -410,11 +410,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
-            },},{id: "news-an-in-depth-exchanges-with-prof-simon-loew-39-s-team-from-eth-zurich",
-          title: 'An in-depth exchanges with Prof. Simon Loew&amp;#39;s team from ETH Zurich',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
             },},{id: "news-a-brainstorm-on-cascading-hazards",
           title: 'A brainstorm on cascading hazards',
           description: "",
