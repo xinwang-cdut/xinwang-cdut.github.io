@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "I have published over 50 academic papers, among which 13 are as the first or corresponding author (Google Scholar H-index = 21). Following are the representative publications by categories in reversed chronological order.",
+          description: "I have published over 50 academic papers, among which 14 are as the first or corresponding author (Google Scholar H-index = 23). Following are the representative publications by categories in reversed chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
