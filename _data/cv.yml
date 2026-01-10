@@ -36,6 +36,9 @@
     - title: 国家重点研发计划专题（¥580,000）
       items: ...岩屑坡等典型地质要素综合遥感影像特征及智能解译技术研究
       year: 2021.12 - 2024.11
+    - title: 四川省自然科学基金面上项目（¥150,000）
+      items: 复杂山地极端降雨诱发滑坡多尺度动态预测——以四川山区为例
+      year: 2026.01 - 2027.12
     - title: 四川省自然科学基金青年项目（¥100,000）
       items: 基于遥感影像的地震滑坡智能预测、识别与长期效应研究
       year: 2022.01 - 2023.12
@@ -48,11 +51,14 @@
   contents:
     - year: 2025
       items:
+        - “全国高校黄大年式教师团队”骨干成员
+    - year: 2025
+      items:
         - 成都理工大学“优秀共产党员”
     - year: 2023
       items:
         - 地理信息科技进步一等奖（9/15）
-    - year: 2022
+    - year: 2023
       items:
         - 四川省“天府峨眉计划”青年科技人才
     - year: 2019
@@ -62,12 +68,15 @@
 - title: Committee and Broad Memberships
   type: time_table
   contents:
+    - year: 2026.01 - Present
+      items:
+        - 成都理工大学学报（自然科学版）-- 青年编委
     - year: 2024.11 - Present
       items:
-        - 国际岩土工程机器学习发展理事会青年理事
+        - FOMLIG Council -- Early Career Member
     - year: 2024.06 - Present
       items:
-        - Geodata and AI -- Editorial Board Member
+        - Geodata and AI -- Young Editorial Broad Member
     - year: 2023.01 - Present
       items:
         - 中国测绘学会智能化测绘工作委员会委员
